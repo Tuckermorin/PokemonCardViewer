@@ -1,9 +1,3 @@
-You got it. Below is the `README.md` content formatted exactly as you'd paste it into a file inside VS Code:
-
----
-
-### 📄 Paste this into `README.md`:
-
 ```markdown
 # Pokémon Card Viewer
 
